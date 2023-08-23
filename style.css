@@ -173,7 +173,7 @@ h4{
     display: grid;
     gap: 30px;
     background-color: var(--secondary-color);
-    padding: 25px;
+    padding: 45px;
     border-radius: 10px;
 }
 
